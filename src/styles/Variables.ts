@@ -3,7 +3,8 @@ import { css } from "styled-components";
 const Variables = css`
   :root {
     // Font
-    --font-main: 'Roboto', -apple-system, BlinkMacSystemFont, 'Segoe UI', Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    --font-main: 'Roboto', -apple-system, BlinkMacSystemFont, 'Segoe UI', Oxygen,
+      Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 
     // Font size
     --fz-xxs: 0.25rem;
@@ -19,7 +20,7 @@ const Variables = css`
     --white: #fff;
     --black: #000;
     --bg: #141519;
-    --gray: #7f7f7f;
+    --gray: #ccc;
     --blue: #057dcd;
 
     // Other

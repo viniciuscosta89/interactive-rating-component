@@ -24,7 +24,7 @@ export const Button = styled.button<ButtonTypes>`
   border-radius: 2em;
   font-weight: 500;
   letter-spacing: 0.25em;
-  padding: 1em 2em;
+  padding: 1em 1.75em;
   text-transform: uppercase;
   width: 100%;
   transition: var(--transition);
@@ -43,7 +43,7 @@ export const StyledLink = styled(Link)<ButtonTypes>`
   display: block;
   font-weight: 500;
   letter-spacing: 0.25em;
-  padding: 1em 2em;
+  padding: 1em 1.75em;
   text-align: center;
   text-decoration: none;
   text-transform: uppercase;
